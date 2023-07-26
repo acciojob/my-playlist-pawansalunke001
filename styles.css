@@ -9,9 +9,12 @@ body{
 #resource{
 	
 	background-color:white;
-	text-align:column;
+	
 	
 }
 #resource>a{
 	text-decoration:none;
+}
+h3{
+	text-align:center;
 }
